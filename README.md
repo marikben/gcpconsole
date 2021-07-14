@@ -1,5 +1,6 @@
 # gcpconsole
-Get all the Virtual Machines (aka Compute Engines) from all the projects in an organization in Google Cloud Console
+Get all the Virtual Machines (aka Compute Engines) from all the projects in an organization in Google Cloud Console <br>
+Work in process
 
 for PROJECT in $(\ <br>
   gcloud projects list \ <br>
